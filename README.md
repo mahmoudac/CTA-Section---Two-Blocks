@@ -25,7 +25,7 @@
 <li>Hosting , Domein  en SSL </li>
 <li>Wordpress CMS </li>
 <li>Elementor pro plugin </li>
-<li>Advanced Custom Fields ( ACF ) plugin</li>
+<li>Advanced Custom Fields (ACF) plugin: om custom fields te maken, zodat de klant / marketeer makkelijk alle content kan aanpassen.</li>
 <li>Members plugin : om Klant role to maken voor wordpress gebruikers </li>
 </ol>
 <br>
