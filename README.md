@@ -1,4 +1,5 @@
 <h1>CTA Section - Two Blocks ( Case ) </h1>
+<img src="https://raw.githubusercontent.com/mahmoudac/cases/41e3f85bbf061e83ffc11cfe19a54325141bf4a2/figma%20naar%20wordpress.jpg" alt="Image CTA Section - Two Blocks ( Case )">
 <h2>Domein</h2>
 <p><b>Casedomein: </b><a href="https://webmoud.nl" target="_blank">webmoud.nl</a></p>
 <br>
@@ -30,7 +31,7 @@
 <br>
 <br>
 <h2> Velden</h2>
-<p>Titel / label van het veld - bijv : Beste marketing bureau in Amsterdam ! <em> het is required en hele belangrijk voor website en SEO als het h1, h2 of h3 ... </em></p>
+<p>Titel / label van het veld - bijv : Beste marketing bureau in Amsterdam ! <em> het is required en hele belangrijk voor website en SEO want veel websites gebruikt het als h1, h2 of h3 ...  en niet alleen p (paragraph) </em></p>
 <br>
 <br>
 <h3>Bijvoorbeelden </h3>
