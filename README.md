@@ -1,6 +1,6 @@
-# cases
+<h1>CTA Section - Two Blocks ( Case ) </h1>
 <h2>Domein</h2>
-<p><b>Casedomein: </b><a href="https://webmoud.nl target="_blank"">webmoud.nl</a></p>
+<p><b>Casedomein: </b><a href="https://webmoud.nl" target="_blank">webmoud.nl</a></p>
 <br>
 <br>
 <h2>Inloggen</h2>
@@ -8,13 +8,13 @@
 <br>
 <br>
 <h3>Admin Dashboard</h3>
-<p><b>Dashboard link : </b> <a href="https://webmoud.nl/wp-admin" target="_blank"">https://webmoud.nl/wp-admin)</a></p>
+<p><b>Dashboard link : </b> <a href="https://webmoud.nl/wp-admin" target="_blank">https://webmoud.nl/wp-admin)</a></p>
 <p><b>Admin email : </b></b> admin@webmoud.nl</p>
 <p><b>Adminwachtwoord : </b> Admin$123</p>
 <br>
 <br>
 <h3>Klant Dashboard</h3>
-<p><b>Dashboard link : </b> <a href="https://webmoud.nl/wp-admin" target="_blank"">https://webmoud.nl/wp-admin)</a></p>
+<p><b>Dashboard link : </b> <a href="https://webmoud.nl/wp-admin" target="_blank">https://webmoud.nl/wp-admin)</a></p>
 <p><b>Klant email : </b> klant@webmoud.nl</p>
 <p><b>Klantwachtwoord : </b> Klant$123</p>
 <br>
